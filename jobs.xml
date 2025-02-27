@@ -1,0 +1,33 @@
+    <job>
+        <title>Vanzator</title>
+        <description>Vinzi chestii</description>
+        <salary>1413</salary>
+    </job>
+    <job>
+        <title>Full-Stack Dev</title>
+        <description>sites</description>
+        <salary>14135</salary>
+    </job>
+    <job>
+        <title>QA Tester</title>
+        <description>Testing cv</description>
+        <salary>21412</salary>
+    </job>
+   
+    <job>
+        <title>Software Arhitect</title>
+        <description>Arhitectura</description>
+        <salary>1000</salary>
+    </job>
+   
+    <job>
+        <title>Software Engineer</title>
+        <description>Coding hard</description>
+        <salary>123$/h</salary>
+    </job>
+    <job>
+        <title>Militar</title>
+        <description>POC POC</description>
+        <salary>100$/h</salary>
+    </job>
+</jobs>

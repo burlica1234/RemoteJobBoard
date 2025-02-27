@@ -1,0 +1,32 @@
+<responses>
+    <response>
+        <job_title>Vanzator</job_title>
+        <email>maria</email>
+        <message>nu</message>
+    </response>
+    <response>
+        <job_title>Consultant</job_title>
+        <email>maria</email>
+        <message>nu mersi</message>
+    </response>
+    <response>
+        <job_title>Mecanic</job_title>
+        <email>maria</email>
+        <message>Te asteptam la interviu</message>
+    </response>
+    <response>
+        <job_title>Full-Stack Dev</job_title>
+        <email>andrei</email>
+        <message>Refused</message>
+    </response>
+<    <response>
+        <job_title>Militar</job_title>
+        <email>andrei</email>
+        <message>nu prea</message>
+    </response>
+<    <response>
+        <job_title>Full-Stack Dev</job_title>
+        <email>andrei</email>
+        <message>nu te primim</message>
+    </response>
+</responses>

@@ -1,0 +1,35 @@
+ 
+<favourites>
+    <favourite>
+        <username>maria</username>
+        <job_title>QA Tester</job_title>
+    </favourite>
+<    <favourite>
+        <username>maria</username>
+        <job_title>nu</job_title>
+    </favourite>
+<    <favourite>
+        <username>maria</username>
+        <job_title>asfas</job_title>
+    </favourite>
+<    <favourite>
+        <username>amd</username>
+        <job_title>Software Engineer</job_title>
+    </favourite>
+<    <favourite>
+        <username>maria</username>
+        <job_title>Software Engineer</job_title>
+    </favourite>
+<    <favourite>
+        <username>maria</username>
+        <job_title>Vanzator</job_title>
+    </favourite>
+<    <favourite>
+        <username>maria</username>
+        <job_title>comi</job_title>
+    </favourite>
+<    <favourite>
+        <username>andrei</username>
+        <job_title>Full-Stack Dev</job_title>
+    </favourite>
+</favourites>

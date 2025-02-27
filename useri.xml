@@ -1,0 +1,9 @@
+<users>
+    <user username="username1" password="password1" status="employee" />
+    <user username="username2" password="password2" status="employer" />    <user username="alex" password="ana" status="employee" />
+    <user username="maria" password="parola" status="employee" />
+    <user username="mama" password="aaa" status="employer" />
+    <user username="amd" password="bmd" status="employee" />
+    <user username="xyz" password="123" status="employer" />
+    <user username="andrei" password="123" status="employee" />
+</users>
